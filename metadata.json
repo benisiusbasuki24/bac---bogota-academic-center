@@ -1,0 +1,6 @@
+{
+  "name": "Bogota Academic Center",
+  "description": "Portal web app terpusat untuk mengakses sumber daya internal dan eksternal Bogota Academic Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
